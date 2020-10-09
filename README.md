@@ -9,17 +9,17 @@ In the dataset constructed for this domain, the family history feature has the v
 
 The Dataset is taken from here - Dermatology Dataset
 
-## Steps Involved:
-## Importing the library
-## Loading the Dataset
-## Structure of the Dataset
-## Exploration of Dataset
-## Statistics
-## Data Cleaning
-## Heat Map
-## PCA Implementation
-## Machine learning Model
-## Splitting the Dataset
-## Training the Model
-## Prediction
-## Model Score
+#### Steps Involved:
+#### Importing the library
+#### Loading the Dataset
+#### Structure of the Dataset
+#### Exploration of Dataset
+#### Statistics
+#### Data Cleaning
+#### Heat Map
+#### PCA Implementation
+#### Machine learning Model
+#### Splitting the Dataset
+#### Training the Model
+#### Prediction
+#### Model Score
